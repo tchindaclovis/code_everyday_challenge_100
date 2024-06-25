@@ -1,1 +1,1 @@
-# DAY_1 Expanding card
+# DAY_2 Progess Steps
