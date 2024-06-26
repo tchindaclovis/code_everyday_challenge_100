@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-:root { /*pour l'uniformisation des couleurs*/
-    --line-border-fill:#3498db; /*définir automatiquement les bordures*/
-    --line-border-empty:#e0e0e0;/*les deux sont liés à var(couleur)*/
-}
-
-
 *{
     box-sizing: border-box;
 }
